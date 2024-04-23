@@ -1,25 +1,47 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:2e2e2e,100:353839&height=200&section=header&text=Érika%20Lima&fontSize=25&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Desenvolvedora&descAlignY=50">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=erikalmn&show_icons=true&icon_color=fff&hide_border=true&title_color=fff&text_color=fff&bg_color=353839&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikalmn&layout=compact&langs_count=7&hide_border=true&title_color=fff&text_color=fff&bg_color=353839"/>
-</div>
+<p align="left"> 
+  🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+</p>
+
+<p align="left"> 
+  🎓 7º período do Bacharelado em Sistemas de Informação.
+</p>
+
+<p align="left"> 
+  🌱 Aprendendo mais sobre Vue.js.
+</p>
+
 <br/>
 
-<div align="center">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-</div>
-<br/>
+<p align="left">
+  🦄 Linguagens:
+</p>
 
-<div align="center">
-  <a href="mailto:erikasaleslim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/erikalmn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://portfolio-erikalmn.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true" target="_blank"></a>
-</div>
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Vue](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vuedotjs)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+<p align="left">
+  💼 Ferramentas:
+</p>
+
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+<p align="left">
+  💌 Onde me encontrar:
+</p>
+
+[![Linkedin](https://img.shields.io/badge/-erikalmn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erikalmn/)](https://www.linkedin.com/in/erikalmn/)
+[![Gmail Badge](https://img.shields.io/badge/-erikasaleslim@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erikasaleslim@gmail.com)](mailto:erikasaleslim@gmail.com)
