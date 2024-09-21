@@ -5,7 +5,7 @@
 </p>
 
 <p align="left"> 
-  🎓 7º período do Bacharelado em Sistemas de Informação.
+  🎓 8º período do Bacharelado em Sistemas de Informação.
 </p>
 
 <p align="left"> 
